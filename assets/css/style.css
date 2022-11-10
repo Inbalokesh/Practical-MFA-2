@@ -1,0 +1,56 @@
+body{
+	font-family: Inter;
+	font-Weights: 400, 700, 800;
+	margin:70px 150px;
+	
+
+}
+
+.header{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+	
+}
+
+a.navigation__link{
+	
+	color:#504f52;
+	text-decoration:none;
+	padding:15px;
+	
+}
+
+.order{
+	display:flex;
+	flex-direction:row;
+	margin-top:30px;
+	margin-bottom:40px;
+}
+
+.bold{
+	display:flex;
+	flex-direction:row;
+}
+
+.big{
+	font-weight:bold;
+	font-size:50px;
+	padding:1px;
+	width:70%;
+	margin-top:15px;
+}
+
+.para{
+	width:63%;
+	margin-left:40px;
+}
+
+.sidebar{
+	background-color:black;
+}
+
+.font{
+	color:white;
+}
